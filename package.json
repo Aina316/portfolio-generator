@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Aina316/portfolio-generator.git",
   "bin": { "spg": "./bin/spg.js" },
   "name": "portfolio-generator",
   "version": "1.0.0",
