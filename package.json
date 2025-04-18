@@ -1,6 +1,8 @@
 {
   "homepage": "https://github.com/Aina316/portfolio-generator.git",
-  "bin": { "spg": "./bin/spg.js" },
+  "bin": {
+    "spg": "./bin/spg.js"
+  },
   "name": "portfolio-generator",
   "version": "1.0.0",
   "main": "index.js",
@@ -16,5 +18,8 @@
     "chalk": "^5.4.1",
     "commander": "^13.1.0",
     "fs-extra": "^11.3.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
