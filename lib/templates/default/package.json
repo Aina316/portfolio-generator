@@ -1,0 +1,10 @@
+{
+   "scripts": {
+  "build": "eleventy",
+  "dev": "eleventy --serve",
+  "deploy": "npm run build && gh-pages -d _site"
+},
+"devDependencies": {
+  "gh-pages": "^4.0.0"
+}
+  }
